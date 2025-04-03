@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shruti Sharma
 - 👀 I’m student of ...CSE
-- 🌱 I’m currently learning ... Languages
+- 🌱 I’m currently learning ... Languages like C++, C#, JavaScript, Python
 - 💞️ I’m looking to collaborate on good and interesting project's
 - 📫 My Gmail is ... Sharmashrutinurpur@gmail.com
   
